@@ -32,4 +32,4 @@
 SX
 
 ## GitHub
-https://github.com/kemomi/readingblob/main/user.js
+https://github.com/kemomi/reading/blob/main/user.js
